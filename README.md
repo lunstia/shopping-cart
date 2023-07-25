@@ -1,8 +1,7 @@
-# React + Vite
+# Shopping Cart
+This shopping cart app features react fluency especially with:
+props, states, useEffect, routers, and more!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The goals for this app was to give me solid react foundations.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Will finish up the CSS later, I'm focusing on functionality foremost.
