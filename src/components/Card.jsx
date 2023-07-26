@@ -1,7 +1,6 @@
 import { PropTypes } from 'prop-types'; 
 
 export default function Card({ product }) {
-    console.log('hi')
     return (
         <div>
             <h3>{product.title}</h3>
